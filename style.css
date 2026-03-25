@@ -57,12 +57,14 @@ nav a:hover::after {
 /* HERO */
 .hero {
   height: 100vh;
-  background: url("https://images.unsplash.com/photo-1549921296-3cfc0f7a6e19") center/cover;
+  background: 
+    linear-gradient(to right, rgba(0,0,0,0.9), rgba(0,0,0,0.2)),
+    url("https://images.unsplash.com/photo-1517649763962-0c623066013b") center/cover;
   display: flex;
   align-items: center;
   justify-content: center;
   position: relative;
-}
+}}
 
 .overlay {
   position: absolute;
