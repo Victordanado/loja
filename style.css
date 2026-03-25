@@ -6,7 +6,7 @@
 }
 
 body {
-  background: #050505 url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+  background: url("https://images.unsplash.com/photo-1517649763962-0c623066013b") center/cover;
   color: white;
   padding-top: 80px;
 }
