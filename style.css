@@ -134,15 +134,15 @@ nav a:hover::after {
 /* IMAGENS DOS PRODUTOS (SKATE) */
 .img {
   height: 200px;
-  background: url("https://images.unsplash.com/photo-1520975916090-3105956dac38") center/cover no-repeat;
+  background: url("https://imgcentauro-a.akamaihd.net/1200x1200/98534901A6.jpg") center/cover no-repeat;
 }
 
 .card:nth-child(2) .img {
-  background: url("https://images.unsplash.com/photo-1582735689369-4fe89db7114c") center/cover no-repeat;
+  background: url("https://down-br.img.susercontent.com/file/sg-11134201-22110-sucab9v8s1jvfd") center/cover no-repeat;
 }
 
 .card:nth-child(3) .img {
-  background: url("https://images.unsplash.com/photo-1594736797933-d0b22d4a6d6c") center/cover no-repeat;
+  background: url("https://www.virtualskateshop.com.br/skate-profissional-montado-de-maple-8.25-dgk-grafs-guetto?srsltid=AfmBOooLnCr2mU0Sobo2SmsZl2cR6jQgCYASFu_fbXVOF4Nwhwo9cC-Y") center/cover no-repeat;
 }
 
 .info {
